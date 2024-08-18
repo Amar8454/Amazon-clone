@@ -19,7 +19,7 @@
 	background-size: cover;
 	height:45px;
 	width: 90px;
-	background-image: url("a..jpeg");
+	background-image: url("image/a..jpeg");
 }
 #logo1:hover {
 	border: 1.5px solid white;
@@ -143,7 +143,7 @@ p{
 	display: flex;
 	justify-content: center;
 	align-items: flex-end;
-	background-image: url("amzon 1.jpg");
+	background-image: url("image/amzon 1.jpg");
 	background-size: cover;
 }
 /** main-box 3 **/
@@ -267,7 +267,7 @@ ul a{
 }
 
 #logo1{
-	background-image:url('a..jpeg');
+	background-image:url('image/a..jpeg');
 	height: 45px;
 	width: 100px;
 	background-size: cover;
